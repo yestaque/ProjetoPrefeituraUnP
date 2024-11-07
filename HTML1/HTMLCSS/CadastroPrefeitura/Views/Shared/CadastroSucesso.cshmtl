@@ -1,0 +1,6 @@
+@{
+    ViewData["Title"] = "Cadastro Sucesso";
+}
+
+<h2>@ViewBag.Mensagem</h2>
+<a href="/">Voltar para a página inicial</a>
