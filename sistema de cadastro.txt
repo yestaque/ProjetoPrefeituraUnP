@@ -5,4 +5,4 @@ Digite suas Especialidades
 Digite o número do convênio
 Digite o responsável da prefeitura
 Digite o telefone do responsável
-Digite o E-mail do responsável
+Digite o E-mail do responsável.
